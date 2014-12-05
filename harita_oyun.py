@@ -15,7 +15,7 @@ for contour in contours:
     x,y,w,h = cv2.boundingRect(contour)
     mask = np.zeros((width,height),np.uint8)
 
-    cv2.drawContours(image,contours,i,(randint(255),randint(255),randint(255)),1)
+    cv2.drawContours(image,contours,i,(randint(0,255),randint(0,255),randint(0,255)),1)
     cv2.drawContours(mask, [contour], 0, 255, -1)
     city = mask[y:y+h,x:x+w]
     cv2.imshow('city', city)
