@@ -1,83 +1,83 @@
 <country name="turkey">
-    <city file="./cities/city_1.png" height="81" posx="534" posy="397" width="48">Hatay</city>
-    <city file="./cities/city_2.png" height="27" posx="584" posy="395" width="45">Kilis</city>
-    <city file="./cities/city_3.png" height="89" posx="359" posy="371" width="140">Mersin</city>
-    <city file="./cities/city_4.png" height="90" posx="178" posy="365" width="181">Antalya</city>
-    <city file="./cities/city_5.png" height="54" posx="571" posy="362" width="84">Gaziantep</city>
-    <city file="./cities/city_6.png" height="84" posx="353" posy="353" width="85">Karaman</city>
-    <city file="./cities/city_7.png" height="50" posx="538" posy="351" width="44">Osmaniye</city>
-    <city file="./cities/city_8.png" height="55" posx="754" posy="343" width="106">Mardin</city>
-    <city file="./cities/city_9.png" height="89" posx="72" posy="341" width="134">Muğla</city>
-    <city file="./cities/city_10.png" height="61" posx="186" posy="333" width="84">Burdur</city>
-    <city file="./cities/city_11.png" height="48" posx="846" posy="332" width="100">Şırnak</city>
-    <city file="./cities/city_12.png" height="89" posx="645" posy="328" width="128">Şanlıurfa</city>
-    <city file="./cities/city_13.png" height="56" posx="938" posy="323" width="81">Hakkari</city>
-    <city file="./cities/city_14.png" height="41" posx="834" posy="306" width="83">Siirt</city>
-    <city file="./cities/city_15.png" height="122" posx="479" posy="306" width="88">Adana</city>
-    <city file="./cities/city_16.png" height="46" posx="65" posy="306" width="96">Aydın</city>
-    <city file="./cities/city_17.png" height="71" posx="441" posy="304" width="66">Niğde</city>
-    <city file="./cities/city_18.png" height="95" posx="557" posy="291" width="81">Kahramanmaraş</city>
-    <city file="./cities/city_19.png" height="78" posx="229" posy="291" width="81">Isparta</city>
-    <city file="./cities/city_20.png" height="106" posx="147" posy="288" width="80">Denizli</city>
-    <city file="./cities/city_21.png" height="71" posx="813" posy="285" width="45">Batman</city>
-    <city file="./cities/city_22.png" height="84" posx="711" posy="275" width="118">Diyarbakır</city>
-    <city file="./cities/city_23.png" height="71" posx="397" posy="260" width="64">Aksaray</city>
-    <city file="./cities/city_24.png" height="44" posx="161" posy="258" width="65">Uşak</city>
-    <city file="./cities/city_25.png" height="84" posx="612" posy="252" width="101">Malatya</city>
-    <city file="./cities/city_26.png" height="77" posx="838" posy="249" width="84">Bitlis</city>
-    <city file="./cities/city_27.png" height="62" posx="671" posy="246" width="104">Elazığ</city>
-    <city file="./cities/city_28.png" height="167" posx="293" posy="245" width="168">Konya</city>
-    <city file="./cities/city_29.png" height="105" posx="486" posy="244" width="110">Kayseri</city>
-    <city file="./cities/city_30.png" height="98" posx="207" posy="238" width="112">Afyon</city>
-    <city file="./cities/city_31.png" height="73" posx="450" posy="236" width="46">Nevşehir</city>
-    <city file="./cities/city_32.png" height="71" posx="753" posy="223" width="72">Bingöl</city>
-    <city file="./cities/city_33.png" height="114" posx="903" posy="221" width="93">Van</city>
-    <city file="./cities/city_34.png" height="68" posx="813" posy="221" width="86">Muş</city>
-    <city file="./cities/city_35.png" height="55" posx="690" posy="219" width="86">Tunceli</city>
-    <city file="./cities/city_36.png" height="64" posx="412" posy="210" width="64">Kırşehir</city>
-    <city file="./cities/city_37.png" height="77" posx="159" posy="191" width="93">Kütahya</city>
-    <city file="./cities/city_38.png" height="71" posx="667" posy="188" width="127">Erzincan</city>
-    <city file="./cities/city_39.png" height="75" posx="873" posy="180" width="114">Ağrı</city>
-    <city file="./cities/city_40.png" height="85" posx="444" posy="180" width="109">Yozgat</city>
-    <city file="./cities/city_41.png" height="74" posx="233" posy="178" width="105">Eskişehir</city>
-    <city file="./cities/city_42.png" height="64" posx="402" posy="173" width="47">Kırıkkale</city>
-    <city file="./cities/city_43.png" height="26" posx="922" posy="171" width="80">Iğdır</city>
-    <city file="./cities/city_44.png" height="133" posx="538" posy="160" width="151">Sivas</city>
-    <city file="./cities/city_45.png" height="40" posx="735" posy="154" width="55">Bayburt</city>
-    <city file="./cities/city_46.png" height="57" posx="219" posy="152" width="48">Bilecik</city>
-    <city file="./cities/city_47.png" height="7" posx="12" posy="124" width="15">Çanakkale</city>
-    <city file="./cities/city_48.png" height="66" posx="136" posy="144" width="97">Bursa</city>
-    <city file="./cities/city_49.png" height="103" posx="29" posy="215" width="115">İzmir</city>
-    <city file="./cities/city_50.png" height="109" posx="55" posy="132" width="123">Balıkesir</city>
-    <city file="./cities/city_51.png" height="14" posx="175" posy="136" width="38">Yalova</city>
-    <city file="./cities/city_52.png" height="64" posx="517" posy="134" width="112">Tokat</city>
-    <city file="./cities/city_53.png" height="93" posx="77" posy="216" width="101">Manisa</city>
-    <city file="./cities/city_54.png" height="67" posx="647" posy="123" width="60">Giresun</city>
-    <city file="./cities/city_55.png" height="56" posx="493" posy="123" width="77">Amasya</city>
-    <city file="./cities/city_56.png" height="136" posx="278" posy="147" width="154">Ankara</city>
-    <city file="./cities/city_57.png" height="56" posx="264" posy="123" width="104">Bolu</city>
-    <city file="./cities/city_58.png" height="53" posx="622" posy="315" width="96">Adıyaman</city>
-    <city file="./cities/city_59.png" height="122" posx="768" posy="122" width="118">Erzurum</city>
-    <city file="./cities/city_60.png" height="54" posx="136" posy="74" width="96">İstanbul</city>
-    <city file="./cities/city_61.png" height="61" posx="689" posy="140" width="66">Gümüşhane</city>
-    <city file="./cities/city_62.png" height="52" posx="581" posy="119" width="75">Ordu</city>
-    <city file="./cities/city_63.png" height="32" posx="281" posy="115" width="46">Düzce</city>
-    <city file="./cities/city_64.png" height="58" posx="234" posy="109" width="55">Sakarya</city>
-    <city file="./cities/city_65.png" height="80" posx="862" posy="107" width="81">Kars</city>
-    <city file="./cities/city_66.png" height="91" posx="439" posy="107" width="81">Çorum</city>
-    <city file="./cities/city_67.png" height="36" posx="706" posy="119" width="69">Trabzon</city>
-    <city file="./cities/city_68.png" height="55" posx="768" posy="100" width="54">Rize</city>
-    <city file="./cities/city_69.png" height="50" posx="347" posy="87" width="51">Karabük</city>
-    <city file="./cities/city_70.png" height="37" posx="306" posy="86" width="49">Zonguldak</city>
-    <city file="./cities/city_71.png" height="65" posx="810" posy="84" width="70">Artvin</city>
-    <city file="./cities/city_72.png" height="58" posx="488" posy="80" width="115">Samsun</city>
-    <city file="./cities/city_73.png" height="62" posx="868" posy="76" width="57">Ardahan</city>
-    <city file="./cities/city_74.png" height="42" posx="205" posy="106" width="52">Kocaeli</city>
-    <city file="./cities/city_75.png" height="61" posx="70" posy="74" width="76">Tekirdağ</city>
-    <city file="./cities/city_76.png" height="34" posx="346" posy="69" width="39">Bartın</city>
-    <city file="./cities/city_77.png" height="80" posx="382" posy="58" width="92">Kastamonu</city>
-    <city file="./cities/city_78.png" height="58" posx="457" posy="55" width="62">Sinop</city>
-    <city file="./cities/city_79.png" height="91" posx="36" posy="39" width="53">Edirne</city>
-    <city file="./cities/city_80.png" height="58" posx="82" posy="34" width="65">Kırklareli</city>
-	<city file="./cities/city_81.png" height="53" posx="369" posy="123" width="80">Çankırı</city>
+    <city file="./cities/city_1.png" plaka="31" height="81" posx="534" posy="397" width="48">Hatay</city>
+    <city file="./cities/city_2.png" plaka="79" height="27" posx="584" posy="395" width="45">Kilis</city>
+    <city file="./cities/city_3.png" plaka="33" height="89" posx="359" posy="371" width="140">Mersin</city>
+    <city file="./cities/city_4.png" plaka="07" height="90" posx="178" posy="365" width="181">Antalya</city>
+    <city file="./cities/city_5.png" plaka="27" height="54" posx="571" posy="362" width="84">Gaziantep</city>
+    <city file="./cities/city_6.png" plaka="70" height="84" posx="353" posy="353" width="85">Karaman</city>
+    <city file="./cities/city_7.png" plaka="80" height="50" posx="538" posy="351" width="44">Osmaniye</city>
+    <city file="./cities/city_8.png" plaka="47" height="55" posx="754" posy="343" width="106">Mardin</city>
+    <city file="./cities/city_9.png" plaka="48" height="89" posx="72" posy="341" width="134">Muğla</city>
+    <city file="./cities/city_10.png" plaka="15" height="61" posx="186" posy="333" width="84">Burdur</city>
+    <city file="./cities/city_11.png" plaka="73" height="48" posx="846" posy="332" width="100">Şırnak</city>
+    <city file="./cities/city_12.png" plaka="63" height="89" posx="645" posy="328" width="128">Şanlıurfa</city>
+    <city file="./cities/city_13.png" plaka="30" height="56" posx="938" posy="323" width="81">Hakkari</city>
+    <city file="./cities/city_14.png" plaka="56" height="41" posx="834" posy="306" width="83">Siirt</city>
+    <city file="./cities/city_15.png" plaka="01" height="122" posx="479" posy="306" width="88">Adana</city>
+    <city file="./cities/city_16.png" plaka="09" height="46" posx="65" posy="306" width="96">Aydın</city>
+    <city file="./cities/city_17.png" plaka="51" height="71" posx="441" posy="304" width="66">Niğde</city>
+    <city file="./cities/city_18.png" plaka="46" height="95" posx="557" posy="291" width="81">Kahramanmaraş</city>
+    <city file="./cities/city_19.png" plaka="32" height="78" posx="229" posy="291" width="81">Isparta</city>
+    <city file="./cities/city_20.png" plaka="20" height="106" posx="147" posy="288" width="80">Denizli</city>
+    <city file="./cities/city_21.png" plaka="72" height="71" posx="813" posy="285" width="45">Batman</city>
+    <city file="./cities/city_22.png" plaka="21" height="84" posx="711" posy="275" width="118">Diyarbakır</city>
+    <city file="./cities/city_23.png" plaka="68" height="71" posx="397" posy="260" width="64">Aksaray</city>
+    <city file="./cities/city_24.png" plaka="64" height="44" posx="161" posy="258" width="65">Uşak</city>
+    <city file="./cities/city_25.png" plaka="44" height="84" posx="612" posy="252" width="101">Malatya</city>
+    <city file="./cities/city_26.png" plaka="13" height="77" posx="838" posy="249" width="84">Bitlis</city>
+    <city file="./cities/city_27.png" plaka="23" height="62" posx="671" posy="246" width="104">Elazığ</city>
+    <city file="./cities/city_28.png" plaka="42" height="167" posx="293" posy="245" width="168">Konya</city>
+    <city file="./cities/city_29.png" plaka="38" height="105" posx="486" posy="244" width="110">Kayseri</city>
+    <city file="./cities/city_30.png" plaka="03" height="98" posx="207" posy="238" width="112">Afyon</city>
+    <city file="./cities/city_31.png" plaka="50" height="73" posx="450" posy="236" width="46">Nevşehir</city>
+    <city file="./cities/city_32.png" plaka="12" height="71" posx="753" posy="223" width="72">Bingöl</city>
+    <city file="./cities/city_33.png" plaka="65" height="114" posx="903" posy="221" width="93">Van</city>
+    <city file="./cities/city_34.png" plaka="49" height="68" posx="813" posy="221" width="86">Muş</city>
+    <city file="./cities/city_35.png" plaka="62" height="55" posx="690" posy="219" width="86">Tunceli</city>
+    <city file="./cities/city_36.png" plaka="40" height="64" posx="412" posy="210" width="64">Kırşehir</city>
+    <city file="./cities/city_37.png" plaka="43" height="77" posx="159" posy="191" width="93">Kütahya</city>
+    <city file="./cities/city_38.png" plaka="24" height="71" posx="667" posy="188" width="127">Erzincan</city>
+    <city file="./cities/city_39.png" plaka="04" height="75" posx="873" posy="180" width="114">Ağrı</city>
+    <city file="./cities/city_40.png" plaka="66" height="85" posx="444" posy="180" width="109">Yozgat</city>
+    <city file="./cities/city_41.png" plaka="26" height="74" posx="233" posy="178" width="105">Eskişehir</city>
+    <city file="./cities/city_42.png" plaka="71" height="64" posx="402" posy="173" width="47">Kırıkkale</city>
+    <city file="./cities/city_43.png" plaka="76" height="26" posx="922" posy="171" width="80">Iğdır</city>
+    <city file="./cities/city_44.png" plaka="58" height="133" posx="538" posy="160" width="151">Sivas</city>
+    <city file="./cities/city_45.png" plaka="69" height="40" posx="735" posy="154" width="55">Bayburt</city>
+    <city file="./cities/city_46.png" plaka="11" height="57" posx="219" posy="152" width="48">Bilecik</city>
+    <city file="./cities/city_47.png" plaka="17" height="7" posx="12" posy="124" width="15">Çanakkale</city>
+    <city file="./cities/city_48.png" plaka="16" height="66" posx="136" posy="144" width="97">Bursa</city>
+    <city file="./cities/city_49.png" plaka="35" height="103" posx="29" posy="215" width="115">İzmir</city>
+    <city file="./cities/city_50.png" plaka="10" height="109" posx="55" posy="132" width="123">Balıkesir</city>
+    <city file="./cities/city_51.png" plaka="77" height="14" posx="175" posy="136" width="38">Yalova</city>
+    <city file="./cities/city_52.png" plaka="60" height="64" posx="517" posy="134" width="112">Tokat</city>
+    <city file="./cities/city_53.png" plaka="45" height="93" posx="77" posy="216" width="101">Manisa</city>
+    <city file="./cities/city_54.png" plaka="28" height="67" posx="647" posy="123" width="60">Giresun</city>
+    <city file="./cities/city_55.png" plaka="05" height="56" posx="493" posy="123" width="77">Amasya</city>
+    <city file="./cities/city_56.png" plaka="06" height="136" posx="278" posy="147" width="154">Ankara</city>
+    <city file="./cities/city_57.png" plaka="14" height="56" posx="264" posy="123" width="104">Bolu</city>
+    <city file="./cities/city_58.png" plaka="02" height="53" posx="622" posy="315" width="96">Adıyaman</city>
+    <city file="./cities/city_59.png" plaka="25" height="122" posx="768" posy="122" width="118">Erzurum</city>
+    <city file="./cities/city_60.png" plaka="34" height="54" posx="136" posy="74" width="96">İstanbul</city>
+    <city file="./cities/city_61.png" plaka="29" height="61" posx="689" posy="140" width="66">Gümüşhane</city>
+    <city file="./cities/city_62.png" plaka="52" height="52" posx="581" posy="119" width="75">Ordu</city>
+    <city file="./cities/city_63.png" plaka="81" height="32" posx="281" posy="115" width="46">Düzce</city>
+    <city file="./cities/city_64.png" plaka="54" height="58" posx="234" posy="109" width="55">Sakarya</city>
+    <city file="./cities/city_65.png" plaka="36" height="80" posx="862" posy="107" width="81">Kars</city>
+    <city file="./cities/city_66.png" plaka="19" height="91" posx="439" posy="107" width="81">Çorum</city>
+    <city file="./cities/city_67.png" plaka="61" height="36" posx="706" posy="119" width="69">Trabzon</city>
+    <city file="./cities/city_68.png" plaka="53" height="55" posx="768" posy="100" width="54">Rize</city>
+    <city file="./cities/city_69.png" plaka="78" height="50" posx="347" posy="87" width="51">Karabük</city>
+    <city file="./cities/city_70.png" plaka="67" height="37" posx="306" posy="86" width="49">Zonguldak</city>
+    <city file="./cities/city_71.png" plaka="08" height="65" posx="810" posy="84" width="70">Artvin</city>
+    <city file="./cities/city_72.png" plaka="55" height="58" posx="488" posy="80" width="115">Samsun</city>
+    <city file="./cities/city_73.png" plaka="75" height="62" posx="868" posy="76" width="57">Ardahan</city>
+    <city file="./cities/city_74.png" plaka="41" height="42" posx="205" posy="106" width="52">Kocaeli</city>
+    <city file="./cities/city_75.png" plaka="59" height="61" posx="70" posy="74" width="76">Tekirdağ</city>
+    <city file="./cities/city_76.png" plaka="74" height="34" posx="346" posy="69" width="39">Bartın</city>
+    <city file="./cities/city_77.png" plaka="37" height="80" posx="382" posy="58" width="92">Kastamonu</city>
+    <city file="./cities/city_78.png" plaka="57" height="58" posx="457" posy="55" width="62">Sinop</city>
+    <city file="./cities/city_79.png" plaka="22" height="91" posx="36" posy="39" width="53">Edirne</city>
+    <city file="./cities/city_80.png" plaka="39" height="58" posx="82" posy="34" width="65">Kırklareli</city>
+	<city file="./cities/city_81.png" plaka="18" height="53" posx="369" posy="123" width="80">Çankırı</city>
 </country>
